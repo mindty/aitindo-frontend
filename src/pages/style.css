@@ -35,6 +35,8 @@
 
 .text1-2 {
   font-family: "Intro Demo", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
   font-size: 28pt;
   color: #8a4e1a;
   margin-bottom: 0 !important;
@@ -70,12 +72,16 @@
 
 .text2-1-21 {
   font-family: "Intro Demo", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
   font-size: 32pt;
   color: white;
   margin-bottom: 0 !important;
 }
 .text2-1-22 {
   font-family: "Intro Demo", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
   font-size: 40pt;
   color: white;
   margin-bottom: 0 !important;
@@ -121,6 +127,8 @@
 
 .text3-1 {
   font-family: "Intro Demo", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
   font-size: 40pt;
   color: #039b39;
 }
