@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Lora:ital@1&family=Open+Sans&display=swap");
+
+.navbar {
+  background-color: white;
+}
+
+.nav-link {
+  margin-right: 1em;
+  font-family: "Lato", sans-serif;
+  color: #733900 !important;
+}
+
+.nav-link:hover {
+  margin-right: 1em;
+  font-family: "Lato", sans-serif;
+  color: #c76300 !important;
+}
